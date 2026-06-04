@@ -3,7 +3,7 @@ chnage the  roles
 
 
 manage the database
-closing the connection 
+closing the connection on the file 
 
 
 
