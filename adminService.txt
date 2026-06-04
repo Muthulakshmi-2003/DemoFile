@@ -2,7 +2,7 @@ add  and remove users
 chnage the  roles
 
 
-manage the database
+manage the mysql chnages  database
 closing the connection on the file 
 
 
