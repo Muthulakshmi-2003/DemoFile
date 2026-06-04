@@ -2,5 +2,10 @@ add  and remove users
 chnage the  roles
 
 
-chnage 1
-chnage 2 in my database
+manage the database
+closing the connection 
+
+
+
+chnage 2 in harsnthen database
+
